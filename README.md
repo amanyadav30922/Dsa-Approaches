@@ -1,6 +1,6 @@
 # Dsa-Approaches
 
-# Two Pointer Approach
+# 1.Two Pointer Approach
 
 The **Two Pointer Technique** is an efficient algorithmic approach mostly used in **Arrays**, **Strings**, and sometimes **Linked Lists**. It helps reduce time complexity from **O(n²)** to **O(n)** in many problems.
 
